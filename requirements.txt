@@ -1,0 +1,10 @@
+argparse
+dill
+fire
+matplotlib
+numba
+psutil
+requests
+scikit-image
+scipy
+slidingwindow
